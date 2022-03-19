@@ -1,4 +1,6 @@
 # codeocean
+codeocean is used for proof of reproducibility of software. 
+Several journals may ask you to have the codeocean badge.
 
 1.signup to create a new account
   https://codeocean.com/
