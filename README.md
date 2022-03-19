@@ -20,6 +20,6 @@ Several journals may ask you to have the codeocean badge.
 8.After receing acceptance from codeocean, in order to show the reproducibiilty badge, 
 put the following form in any markdown document, for example, on a README.md in github repository:
 
-[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/xxx/tree)
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree)
 
-https://codeocean.com/capsule/xxx/tree should be a copy of published link.
+https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree should be a copy of the published link.
